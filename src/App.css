@@ -218,11 +218,10 @@ text-align: center;
   font-size:1.1rem ;
 text-decoration: none;
 
+color: #fff;
+
 }
-.buttonUnity a:visited{
-  text-decoration: none;
-  color: #fff;
-  }
+
 .buttonUnity:hover{
   opacity: 0.8;
   transition: 1s;
