@@ -5,6 +5,7 @@ import MadeUnity from '../components/MadeUnity'
 import DLCs from '../components/DlCs'
 import ChangeImages from '../components/ChangeImages'
 import Creators from '../components/Creators'
+import Descend from '../components/Descend'
 export default function Home() {
   return (
     <div className='home'>
@@ -15,6 +16,8 @@ export default function Home() {
         <p className='whatis'>
 Hollow Knight is a classic 2D action adventure set in a vast interconnected world. Explore twisting caverns, ancient cities and deadly wastelands. Battle corrupted creatures, make new friends with strange insects, and solve ancient mysteries that lie at the heart of the kingdom.</p>
       </div>
+      <h1 className='descendTitle'>Descend into the Dark</h1>
+      <Descend/>
       <h2 className='textplataform'id='plataforms' >Plataforms:</h2>
      <ContainerLogo/>
 

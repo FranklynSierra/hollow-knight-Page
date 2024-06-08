@@ -9,7 +9,7 @@ export default function Creators() {
       <div className='contentcreators'>
         <img src={tc} alt='tclogo' />
         <div>
-        <button>Visit the Team Cherry Site</button>
+        <button className='cherrybutton'><a href="https://www.teamcherry.com.au/">Visit the Team Cherry Site</a></button>
         </div>
      <p> Hollow Knight is being developed by Team Cherry in Adelaide, South Australia. They're a team of 3 people who, alongside making the game, are responsible for building these websites, cutting those game trailers, posting regular game updates, answering questions on social media and much more. Though it's a lot of work, we love doing it, and it's made even more enjoyable by the enthusiastic support we've received from fans this whole way.</p>
       </div>

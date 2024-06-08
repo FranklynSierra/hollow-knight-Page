@@ -6,7 +6,7 @@ export default function MadeUnity() {
     <div className='subcontainerUnity'>
       <img className='logounity' src={unity}alt='unitylogo'/>
       <p className='unityText'>Learn about the methods we used to make Hollow Knight, and about the engine under-pinning the whole game.</p>
-      <button className='buttonUnity'>Details</button>
+      <button className='buttonUnity'> <a href="https://unity.com/es/made-with-unity/hollow-knight">Details</a></button>
       </div>
     </div>
   )
