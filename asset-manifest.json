@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hollow-knight-Page/static/css/main.6326d3d8.css",
+    "main.css": "/hollow-knight-Page/static/css/main.2dea588c.css",
     "main.js": "/hollow-knight-Page/static/js/main.d75e0c4c.js",
     "static/js/453.69f3745b.chunk.js": "/hollow-knight-Page/static/js/453.69f3745b.chunk.js",
     "static/media/fondounity.jpg": "/hollow-knight-Page/static/media/fondounity.0842ed1f6ac9a6f4c4bc.jpg",
@@ -24,12 +24,12 @@
     "static/media/tc.png": "/hollow-knight-Page/static/media/tc.a585233ec90a6ec37c2e.png",
     "static/media/made_with_unity.png": "/hollow-knight-Page/static/media/made_with_unity.e0aea5a380b0c3353241.png",
     "index.html": "/hollow-knight-Page/index.html",
-    "main.6326d3d8.css.map": "/hollow-knight-Page/static/css/main.6326d3d8.css.map",
+    "main.2dea588c.css.map": "/hollow-knight-Page/static/css/main.2dea588c.css.map",
     "main.d75e0c4c.js.map": "/hollow-knight-Page/static/js/main.d75e0c4c.js.map",
     "453.69f3745b.chunk.js.map": "/hollow-knight-Page/static/js/453.69f3745b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6326d3d8.css",
+    "static/css/main.2dea588c.css",
     "static/js/main.d75e0c4c.js"
   ]
 }
