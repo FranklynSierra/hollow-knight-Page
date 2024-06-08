@@ -421,10 +421,16 @@ transform: translateY(-10px);
     column-count: 1;
 
   }
+ 
+  
+
+  
   .logoplataform{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin:auto;
+   
   }
   .unitysubContainer{
     flex-direction: column;
