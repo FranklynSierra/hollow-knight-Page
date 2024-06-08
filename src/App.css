@@ -22,7 +22,7 @@ background-color: #fff;
 width: 100%;
 scale: 0 1;
 transform-origin:left;
-animation:scroll-watcher linear;
+animation:scroll-watcher linear ;
 animation-timeline: scroll(block) !important;
 }
 
