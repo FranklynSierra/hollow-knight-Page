@@ -4,7 +4,8 @@ import { Link } from 'react-scroll'
 
 export default function SideBar() {
   return (
-
+<div>
+<div className='scroll-watcher'> </div>
     <div className='sideBar'>
 
       <div className='side'>
@@ -55,6 +56,7 @@ export default function SideBar() {
         <img className='logoside' src={logo} alt='logo'></img>
       </div>
 
+    </div>
     </div>
   )
 }
