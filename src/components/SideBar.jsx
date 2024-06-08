@@ -5,7 +5,7 @@ import { Link } from 'react-scroll'
 export default function SideBar() {
   return (
 <div>
-<div className='scroll-watcher'> </div>
+<div className='scroll-watcher'>-</div>
     <div className='sideBar'>
 
       <div className='side'>
