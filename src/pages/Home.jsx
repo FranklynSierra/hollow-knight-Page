@@ -8,7 +8,7 @@ import Creators from '../components/Creators'
 export default function Home() {
   return (
     <div className='home'>
-<div id='scroll-watcher'>.</div>
+     <div className='scroll-watcher'></div>
       <img className='logo' src={logo} alt='logo'></img>
       <div className='content'>
         <h1 className='text'>what is Hollow Knight?</h1>
