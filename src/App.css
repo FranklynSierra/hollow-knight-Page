@@ -10,6 +10,9 @@
   margin: 0;
 
 }
+@keyframes scroll-watcher{
+  to {scale:1 1}
+}
 .scroll-watcher{
 height: 10px;
 position: fixed;
@@ -20,11 +23,9 @@ width: 100%;
 scale: 0 1;
 transform-origin:left ;
 animation:scroll-watcher linear;
-animation-timeline: scroll(block);
+animation-timeline: scroll(block) !important;
 }
-@keyframes scroll-watcher{
-  to {scale:1 1}
-}
+
 .logo {
   display: block;
   width: 100%;
