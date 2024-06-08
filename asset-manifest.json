@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/hollow-knight-Page/static/css/main.6326d3d8.css",
+    "main.js": "/hollow-knight-Page/static/js/main.45124a59.js",
+    "static/js/453.69f3745b.chunk.js": "/hollow-knight-Page/static/js/453.69f3745b.chunk.js",
+    "static/media/fondounity.jpg": "/hollow-knight-Page/static/media/fondounity.0842ed1f6ac9a6f4c4bc.jpg",
+    "static/media/logohollow4.jpg": "/hollow-knight-Page/static/media/logohollow4.4d89be4ee2b594a81fea.jpg",
+    "static/media/change4.jpg": "/hollow-knight-Page/static/media/change4.b3e98240e47f0d5ffa1c.jpg",
+    "static/media/chang1.jpg": "/hollow-knight-Page/static/media/chang1.f73e28747e937c8691d7.jpg",
+    "static/media/change2.jpg": "/hollow-knight-Page/static/media/change2.284db6b36a3acad515d5.jpg",
+    "static/media/change3.jpg": "/hollow-knight-Page/static/media/change3.a8f2b292b45ea5ffaaf4.jpg",
+    "static/media/change5.jpg": "/hollow-knight-Page/static/media/change5.4a8bae9cb4e307ea777c.jpg",
+    "static/media/hollow.png": "/hollow-knight-Page/static/media/hollow.7b0f10feeb6bef92a405.png",
+    "static/media/vasijapura.png": "/hollow-knight-Page/static/media/vasijapura.45035fa41513a832e416.png",
+    "static/media/grimcompañia.jpg": "/hollow-knight-Page/static/media/grimcompañia.8996d8921a2f70225a73.jpg",
+    "static/media/dioses.jpg": "/hollow-knight-Page/static/media/dioses.e0f3536e305a2c1d8580.jpg",
+    "static/media/saviavida.jpg": "/hollow-knight-Page/static/media/saviavida.1460e638045c3f14547c.jpg",
+    "static/media/sueñosocultos.jpg": "/hollow-knight-Page/static/media/sueñosocultos.f9accd377aec557c23eb.jpg",
+    "static/media/arigibson.png": "/hollow-knight-Page/static/media/arigibson.cd4c12b4d220e24988e8.png",
+    "static/media/william.png": "/hollow-knight-Page/static/media/william.57a7803be6915da571d0.png",
+    "static/media/xbox.png": "/hollow-knight-Page/static/media/xbox.d0b761bfd4dbdd7339d3.png",
+    "static/media/david.png": "/hollow-knight-Page/static/media/david.1db3f5f9dba1d18ba4cb.png",
+    "static/media/humble2.png": "/hollow-knight-Page/static/media/humble2.59b2e8e3290f533b475a.png",
+    "static/media/tc.png": "/hollow-knight-Page/static/media/tc.a585233ec90a6ec37c2e.png",
+    "static/media/made_with_unity.png": "/hollow-knight-Page/static/media/made_with_unity.e0aea5a380b0c3353241.png",
+    "index.html": "/hollow-knight-Page/index.html",
+    "main.6326d3d8.css.map": "/hollow-knight-Page/static/css/main.6326d3d8.css.map",
+    "main.45124a59.js.map": "/hollow-knight-Page/static/js/main.45124a59.js.map",
+    "453.69f3745b.chunk.js.map": "/hollow-knight-Page/static/js/453.69f3745b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6326d3d8.css",
+    "static/js/main.45124a59.js"
+  ]
+}
