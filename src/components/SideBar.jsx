@@ -20,7 +20,7 @@ export default function SideBar() {
             
             </Link> 
             </ul>
-
+              <ul>
             <Link className='sides'
             activeClass="active"
             to="dlcs"
@@ -30,6 +30,8 @@ export default function SideBar() {
             duration={1000} >DLCs
             
             </Link> 
+            </ul>
+            <ul>
             <Link className='sides'
             activeClass="active"
             to="unity"
@@ -39,6 +41,8 @@ export default function SideBar() {
             duration={1000} >Unity
             
             </Link> 
+            </ul>
+            <ul>
             <Link className='sides'
             activeClass="active"
             to="Creators"
@@ -48,6 +52,7 @@ export default function SideBar() {
             duration={1000} >Creators
             
             </Link> 
+            </ul>
       </div>
 
       <h2 className='SideMenu'>Hollow Knight</h2>
