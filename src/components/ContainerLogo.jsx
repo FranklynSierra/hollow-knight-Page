@@ -12,7 +12,7 @@ export default function ContainerLogo() {
     <div className='containerlogos'>
      
         <div className='subcontainerlogo'>
-        <div>
+        <div className='containerlogo'>
         <img className='logoplataform' src={steam} alt='logo'></img>
         <img className='logoplataform'src={gogcom} alt='logo'></img>
         <img className='logoplataform'src={humble} alt='logo'></img>

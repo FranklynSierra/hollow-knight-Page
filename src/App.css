@@ -179,7 +179,7 @@ text-align: center;
  animation-range: entry 25% cover 50%;
  animation-fill-mode: both;
   width: 290px;
-  height: 250px;
+  height: 210px;
   margin-left: 80px;
   margin-right: 100px;
 
@@ -272,6 +272,7 @@ color: #fff;
 
   background: transparent;
   padding: 20px;
+  font-size: 2rem;
 }
 .changeimg{
   width:80%;
@@ -430,8 +431,11 @@ transform: translateY(-10px);
     justify-content: center;
     align-items: center;
     margin:auto;
+    width: 290px;
+    height: 200px;
    
   }
+
   .unitysubContainer{
     flex-direction: column;
     column-count: 1;
@@ -443,8 +447,14 @@ transform: translateY(-10px);
   .subfooter{
     flex-direction: column;
   }
+  .principalchangeimg{
+   width: 100%;
+   height: 250px;
+ 
+  }
   .principalchangeimg button{
     padding: 0;
+    font-size: 2rem;
  
   }
   .contentcreators img {
